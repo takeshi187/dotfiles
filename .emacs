@@ -1,6 +1,7 @@
 ;;; SET CUSTOM FILE
-(setq custom-file "~/.emacs.custom.el")
-(load-file "~/.emacs.custom.el")
+(setq custom-file "~/programming/emacs/.emacs.custom.el")
+(load-file "~/programming/emacs/.emacs.custom.el")
+
 
 ;;; GENERAL
 (menu-bar-mode -1)

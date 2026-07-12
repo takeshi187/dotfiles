@@ -9,7 +9,10 @@
  '(display-line-numbers 'relative)
  '(display-line-numbers-type 'visual)
  '(display-time-day-and-date t)
- '(package-selected-packages '(cyberpunk-theme)))
+ '(global-whitespace-mode t)
+ '(indent-tabs-mode t)
+ '(package-selected-packages '(cyberpunk-theme))
+ '(tab-width 8))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
